@@ -1,9 +1,9 @@
 import Banner from "../Banner/Banner"
-import Navbar from "../NavBar/NavBar"
+import NavBar from "../Navbar/Navbar"
 
 const Home = () => {
 
-    return(
+    return (
         <>
         <NavBar/>
         <Banner/>
