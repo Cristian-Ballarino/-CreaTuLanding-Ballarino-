@@ -1,5 +1,5 @@
-import Banner from '../Banner/Banner'
-import NavBar from '../Navbar/Navbar'
+import Banner from "../Banner/Banner"
+import NavBar from "../Navbar/Navbar"
 
 const Home = () => {
 
